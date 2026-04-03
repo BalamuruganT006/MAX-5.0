@@ -1,0 +1,22 @@
+{
+  "identity": {
+    "name": {
+      "value": "Balamurugan",
+      "updated": "2026-04-01"
+    },
+    "mother_tongue": {
+      "value": "Tamil",
+      "updated": "2026-04-01"
+    }
+  },
+  "preferences": {},
+  "projects": {
+    "save_memory": {
+      "value": "tool to store and recall personal information",
+      "updated": "2026-04-01"
+    }
+  },
+  "relationships": {},
+  "wishes": {},
+  "notes": {}
+}
